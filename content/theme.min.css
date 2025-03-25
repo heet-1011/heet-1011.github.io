@@ -856,7 +856,7 @@ button:active {
 }
 
 .button-circle:hover i:last-child {
-    top: 50%;
+    top: 47.5%;
     visibility: visible;
     opacity: 1
 }
