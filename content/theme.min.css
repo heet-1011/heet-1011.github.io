@@ -826,8 +826,8 @@ button:active {
 
 .button-circle i {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 47.5%;
+    left: 52%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     -webkit-transition: ease-out 0.16s;
