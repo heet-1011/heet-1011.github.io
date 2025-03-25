@@ -1379,10 +1379,10 @@ div#roles{
     transition: linear 0.1s
 }
 
-.portfolio-box:hover .portfolio-caption {
+/* .portfolio-box:hover .portfolio-caption {
     padding-left: 44px
 }
-
+ */
 .portfolio-box:hover .portfolio-caption i {
     visibility: visible;
     opacity: 1
